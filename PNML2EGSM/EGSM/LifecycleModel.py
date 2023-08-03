@@ -1,0 +1,2 @@
+class LifecycleModel:
+    pass
