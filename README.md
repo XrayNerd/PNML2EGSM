@@ -1,5 +1,7 @@
 
 # PNML2EGSM
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 
 This tool is a result of a Master Thesis completed at the Technical University of Denmark, with the aim of providing a method of converting Petri Nets into E-GSM.
 
@@ -39,5 +41,8 @@ result.write_output("Final EGSM Output")
  - [VIOLA](https://github.com/gemmadifederico/VIOLA)
 ## License
 
-[CC-BY](https://creativecommons.org/licenses/by/4.0/)
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
 
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
